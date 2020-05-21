@@ -1,6 +1,6 @@
 body {
   background-color: #f6eedf;
-  font-family: "Century Gothic", "Arial", sans-serif;
+  font-family: "Jost", "Arial", sans-serif;
       }
 
 hr{
@@ -11,7 +11,6 @@ hr{
   width: 2%;
   padding-top: 1px;
   padding-bottom: 1px;
-
       }
 
 .circular{
@@ -20,7 +19,7 @@ hr{
 
 table.navlinks{
   align-items: center;
-  font-family: "Freestyle Script";
+  font-family: "Amatic SC";
   font-size: 24px;
   padding-left: 40%;
   padding-right: 30%;
